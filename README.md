@@ -1,1 +1,2 @@
-# example-rest-API-node-and-express
+create my first REST API using Nodejs, and express. I have been developing web applications and you have heard concepts such as AJAX, REST, or if you have been interested in using the data from your web application, in a mobile application or desktop application, in this example we will understand how this can be possible.
+and in this simple example, I take for reference the rest API of movies, to make the petitions I used the application call postman
